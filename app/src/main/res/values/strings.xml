@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DPTask</string>
+    <string name="noconnection">No Network Connection</string>
+    <string name="loading">Loading ......</string>
+    <string name="app_need_permissions">App need some permissions to complete his task.</string>
+    <string name="tryagaing">Error occured please try again!</string>
+</resources>
